@@ -2,65 +2,63 @@
   {
     "id": "1",
     "name": "Ronaldo",
-    "price": 790,
+    "comment": "On top of being one of the best Canon cameras for photography, it's also a very capable video camera. It records 1080p and oversampled 4k video at up to 60 fps and delivers high-quality video, which looks good even in low light. Its autofocus performs consistently in either resolution.",
     "ratings": 4,
     "img": "https://cdn.thetealmango.com/wp-content/uploads/2021/07/ronaldo-1.jpg"
   },
-  
   {
     "id": "2",
     "name": "Ronaldo",
-    "price": 2000,
-    "ratings": 4,
+    "comment": "The most significant control difference is the redesigned power switch that starts the R5C as either a photo camera or a video camera.",
+    "ratings": 4.5,
     "img": "https://cdn.thetealmango.com/wp-content/uploads/2021/07/ronaldo-1.jpg"
   },
-  
   {
     "id": "3",
     "name": "Ronaldo",
-    "price": 350,
-    "ratings": 4,
+    "comment": "Next for the actual video quality and I’ll start with a look through the menus.",
+    "ratings": 3.9,
     "img": "https://cdn.thetealmango.com/wp-content/uploads/2021/07/ronaldo-1.jpg"
   },
   {
     "id": "4",
     "name": "Ronaldo",
-    "price": 700,
+    "comment": "The core specification of any super-zoom camera is of course the lens, and with the SX70 HS, Canon’s chosen to stick with the same optics introduced on its predecessor. ",
     "ratings": 5,
     "img": "https://cdn.thetealmango.com/wp-content/uploads/2021/07/ronaldo-1.jpg"
   },
   {
     "id": "5",
     "name": "Ronaldo",
-    "price": 370,
+    "comment": "The payback for that extra bulk is a built-in electronic viewfinder and a versatile fold-out screen – which I’ll talk more about next.",
     "ratings": 5,
     "img": "https://cdn.thetealmango.com/wp-content/uploads/2021/07/ronaldo-1.jpg"
   },
   {
     "id": "6",
     "name": "Ronaldo",
-    "price": 530,
+    "comment": "I found it a big advantage for framing wildlife and other subjects when zoomed in. There’s also now a sensor to automatically toggle between the screen and the viewfinder when you put your eye to it.",
     "ratings": 5,
     "img": "https://cdn.thetealmango.com/wp-content/uploads/2021/07/ronaldo-1.jpg"
   },
   {
     "id": "7",
     "name": "Ronaldo",
-    "price": 280,
+    "comment": "For this shot I put the PowerShot SX70HS into Aperture priority mode and opened the aperture as wide as it would go to blur the background. Zoomed in to just shy of 400mm that’s f5.6 and as you can see, the background is blurred, but not massively.",
     "ratings": 4,
     "img": "https://cdn.thetealmango.com/wp-content/uploads/2021/07/ronaldo-1.jpg"
   },
   {
     "id": "8",
     "name": "Ronaldo",
-    "price": 340,
+    "comment": "Like the COOLPIX B600, the PowerShot can focus as close as 1cm in macro mode.",
     "ratings": 3,
     "img": "https://cdn.thetealmango.com/wp-content/uploads/2021/07/ronaldo-1.jpg"
   },
   {
     "id": "9",
     "name": "Ronaldo",
-    "price": 270,
+    "comment": "The upgrade to Canon’s Digic 8 processor means the SX70 HS can shoot continuously at 10fps a big improvement on the 6.5fps of the earlier SX60 HS. The 10fps speed is good for about 40 frames at the best quality JPEG setting, after which it slows to about 2fps.",
     "ratings": 5,
     "img": "https://cdn.thetealmango.com/wp-content/uploads/2021/07/ronaldo-1.jpg"
   }
