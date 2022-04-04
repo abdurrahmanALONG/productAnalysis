@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1",
+    "name": "Ronaldo",
+    "price": 790,
+    "ratings": 4,
+    "img": "https://cdn.thetealmango.com/wp-content/uploads/2021/07/ronaldo-1.jpg"
+  },
+  
+  {
+    "id": "2",
+    "name": "Ronaldo",
+    "price": 2000,
+    "ratings": 4,
+    "img": "https://cdn.thetealmango.com/wp-content/uploads/2021/07/ronaldo-1.jpg"
+  },
+  
+  {
+    "id": "3",
+    "name": "Ronaldo",
+    "price": 350,
+    "ratings": 4,
+    "img": "https://cdn.thetealmango.com/wp-content/uploads/2021/07/ronaldo-1.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Ronaldo",
+    "price": 700,
+    "ratings": 5,
+    "img": "https://cdn.thetealmango.com/wp-content/uploads/2021/07/ronaldo-1.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Ronaldo",
+    "price": 370,
+    "ratings": 5,
+    "img": "https://cdn.thetealmango.com/wp-content/uploads/2021/07/ronaldo-1.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Ronaldo",
+    "price": 530,
+    "ratings": 5,
+    "img": "https://cdn.thetealmango.com/wp-content/uploads/2021/07/ronaldo-1.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Ronaldo",
+    "price": 280,
+    "ratings": 4,
+    "img": "https://cdn.thetealmango.com/wp-content/uploads/2021/07/ronaldo-1.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Ronaldo",
+    "price": 340,
+    "ratings": 3,
+    "img": "https://cdn.thetealmango.com/wp-content/uploads/2021/07/ronaldo-1.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Ronaldo",
+    "price": 270,
+    "ratings": 5,
+    "img": "https://cdn.thetealmango.com/wp-content/uploads/2021/07/ronaldo-1.jpg"
+  }
+]

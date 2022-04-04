@@ -1,9 +1,19 @@
 import React from 'react';
+import CustomHook from '../CustomHooks/CustomHook';
+import Reviewr from '../Reviewr/Reviewr';
+import './Reviews.css'
 
 const Reviews = () => {
+    const [reviews, setReviews] = CustomHook();
+
     return (
-        <div>
-            <h3>This is my reviews page</h3>
+        <div className='review-section-card'>
+            {
+                reviews.map(review => <Reviewr
+                    key={review.id}
+                    review={review}
+                ></Reviewr>)
+            }
         </div>
     );
 };

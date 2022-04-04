@@ -1,28 +1,55 @@
-.home{
+.home {
     margin-top: 20px;
 }
-.home-text{
+
+.home-text {
     padding-top: 10px;
     text-align: left;
 }
-.home-text-headline{
+
+.home-text-headline {
     color: darkorange;
 }
-.home-img{
-    width:150px ;
+
+.home-img {
+    width: 150px;
     height: auto;
-    margin-left:10px ;
+    margin-left: 10px;
     padding: 10px;
-
 }
 
 
 
 
-.home-review-section-headline{
-text-align: center;
-color: chocolate;
-}
-.home-review-section{
+.home-review-section-headline {
+    text-align: center;
+    color: chocolate;
     margin-top: 20px;
+}
+
+.home-review-section-card {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    text-align: left;
+    padding: 10px;
+}
+
+.home-review-section-card img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.home-review-section {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.home-review-section-btn {
+    background-color: chocolate;
+    width: 50px;
+    height: 20px;
+    color: azure;
+    border-radius: 3px;
 }
