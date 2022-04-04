@@ -1,0 +1,28 @@
+.home{
+    margin-top: 20px;
+}
+.home-text{
+    padding-top: 10px;
+    text-align: left;
+}
+.home-text-headline{
+    color: darkorange;
+}
+.home-img{
+    width:150px ;
+    height: auto;
+    margin-left:10px ;
+    padding: 10px;
+
+}
+
+
+
+
+.home-review-section-headline{
+text-align: center;
+color: chocolate;
+}
+.home-review-section{
+    margin-top: 20px;
+}
