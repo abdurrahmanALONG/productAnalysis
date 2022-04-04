@@ -28,7 +28,7 @@ const Home = () => {
                 </Container>
             </div>
             <div className='home-review-section'>
-                <h2 className='home-review-section-headline'>Reviewer Comments</h2>
+                <h2 className='home-review-section-headline'> Customer Reviews </h2>
 
                 <div className='home-review-section-card'>
                     {
@@ -41,7 +41,7 @@ const Home = () => {
 
                 </div>
 
-                <Link className='home-review-section-btn' to="/REVIEWS">SHOW ALL</Link>
+                <Link className='home-review-section-btn' to="/REVIEWS">See All Reviews</Link>
             </div>
             <div></div>
         </div>
