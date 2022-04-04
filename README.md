@@ -1,5 +1,5 @@
-# This is a product-analysis-website, here i show something details about Canon Camera.you can see some analysis-results.
-**This is a product-analysis-website, here i show something details about Canon Camera.you can see some analysis-results.
+### `This is a product-analysis-website. Here i am trying to show something details about Canon Camera.You can see some analysis-results here.`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
