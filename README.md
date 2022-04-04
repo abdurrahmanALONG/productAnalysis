@@ -1,4 +1,6 @@
-### `This is a product-analysis-website. Here i am trying to show something details about Canon Camera.You can see some analysis-results here.`
+### `This is a product-analysis-website. Here i am trying to show something details about Canon Camera.You can see some analysis-results here.Inside of the home page i add one canon camera picture with  some text and three reviews.you can easily  naviget by using navbar. here  you can see  all reviews in reviews page, and also i  am trying to show some statistic in dashboard page .in blogs page i am trying to add three question's answers and at the end page you can find about me. that's it...`
+
+### `Live site link`: # https://luminous-stardust-68775b.netlify.app
 
 # Getting Started with Create React App
 
