@@ -6,7 +6,7 @@ import Reviewr from '../Reviewr/Reviewr';
 import './Home.css'
 
 const Home = () => {
-    const [reviews, setReviews] = CustomHook(true)
+    const [reviews, setReviews] = CustomHook()
     return (
         <div className='home'>
             <div>

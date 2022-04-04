@@ -2,7 +2,6 @@ import React from 'react';
 import './Reviewr.css'
 
 const Reviewr = (props) => {
-    // console.log(props.review);
     const {name, img, ratings} = props.review;
     return (
         <div className='reviewr-style'>
